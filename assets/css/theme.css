@@ -1,13 +1,5 @@
-/* =Imports
--------------------------------------------------------------- */
-/* =Fonts
--------------------------------------------------------------- */
-/* Import Fonts */
-@font-face {
-  font-family: "Pacifico";
-  src: url('../fonts/pacifico-webfont.eot?1402738684');
-  src: url('../fonts/pacifico-webfont.eot?&1402738684#iefix') format('embedded-opentype'), url('../fonts/pacifico-webfont.woff?1402738684') format('woff'), url('../fonts/pacifico-webfont.ttf?1402738684') format('truetype'), url('../fonts/pacifico-webfont.svg?1402738684#pacificowebfont') format('svg'); }
-/* Font Family 1 (headings) */
+
+
 h1, h2, h3, h4, h5, h6,
 .site-navigation,
 .btn,
@@ -18,7 +10,7 @@ h1, h2, h3, h4, h5, h6,
 .blog-single .comment-list li header,
 .order-menu .food-item.price-right header .quantity,
 .countdown {
-  font-family: 'Pacifico'; }
+  font-family: 'Arial', sans-serif; }
 
 /* Font Family 2 (main texts) */
 body,
@@ -30,7 +22,7 @@ textarea,
 h1.style-2, h2.style-2, h3.style-2, h4.style-2, h5.style-2, h6.style-2,
 .panel-title,
 .recent-widget ul li > h5 {
-  font-family: 'Open Sans', sans-serif; }
+  font-family: 'Arial', sans-serif; }
 
 /* =Text Colors
 -------------------------------------------------------------- */

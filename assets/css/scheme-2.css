@@ -3,12 +3,7 @@
 /* =Fonts
 -------------------------------------------------------------- */
 /* Import Fonts */
-@font-face {
-  font-family: "Pacifico";
-  src: url('../fonts/pacifico-webfont.eot?1402738684');
-  src: url('../fonts/pacifico-webfont.eot?&1402738684#iefix') format('embedded-opentype'), url('../fonts/pacifico-webfont.woff?1402738684') format('woff'), url('../fonts/pacifico-webfont.ttf?1402738684') format('truetype'), url('../fonts/pacifico-webfont.svg?1402738684#pacificowebfont') format('svg');
-}
-/* Font Family 1 (headings) */
+
 h1, h2, h3, h4, h5, h6,
 .site-navigation,
 .btn,
@@ -18,7 +13,7 @@ h1, h2, h3, h4, h5, h6,
 .filter,
 .blog-single .comment-list li header,
 .order-menu .food-item.price-right header .quantity {
-  font-family: 'Pacifico';
+  font-family: 'Arial';
 }
 
 /* Font Family 2 (main texts) */
