@@ -63,7 +63,7 @@ Table of contents
     Reset
 ====================================== */
 
-body{ font-family: 'Roboto', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:13px; color:#626262; line-height:23px; letter-spacing: 0.02em }
+body{ font-family: 'Anton', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:13px; color:#626262; line-height:23px; letter-spacing: 0.02em }
 a, a:active{ color: #626262; text-decoration: none; }
 a:hover, a:focus{ color: #272727;  text-decoration: none}
 a:focus {outline: none !important; }
@@ -210,8 +210,8 @@ a.light-gray-text:hover { color: #7f7f7f !important}
 .first-letter-round {background-color: #e6af2a; border-radius: 50%; color: #fff; font-size: 30px; padding: 15px;}
 
 /* font family */
-.alt-font {font-family: 'Montserrat', sans-serif !important;}
-.main-font {font-family: 'Roboto', sans-serif !important;}
+.alt-font33 {font-family: 'Anton', sans-serif !important;}
+.main-font {font-family: 'Anton', sans-serif !important;}
 
 /* ===================================
     Icon
